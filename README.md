@@ -5,7 +5,7 @@ This lifestyle iOS app is designed to help users plan out their projects or ever
 
 Version 1.1
 
-Key features:
+<b>Key features: </b>
 
 Login / Register View:
 
