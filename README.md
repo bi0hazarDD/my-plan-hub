@@ -1,7 +1,7 @@
 # MyPlanHub
 My Computer Science Final Year Project submission, a project management/habit lifestyle app built using SwiftUI and Firebase Realtime Database. 
 
-This lifestyle iOS app is designed to help users plan out their projects or everyday tasks in a simple and easy-to-use interface. Data is saved automatically and updated to a cloud database,.
+This lifestyle iOS app is designed to help users plan out their projects or everyday tasks in a simple and easy-to-use interface. Data is saved automatically and updated to a cloud database.
 
 Version 1.1
 
